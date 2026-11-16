@@ -58,4 +58,4 @@ head_sampling_rate = 0.1
 # Replace "your-kv-id-here" with the ID you got
 [[kv_namespaces]]
 binding = "KV"
-id = "your-kv-id-here"
+id = "10f6bc92ac204e168146db7c7fc8fd25"
